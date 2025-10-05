@@ -3,3 +3,4 @@ python-dotenv
 google-genai
 requests
 gunicorn
+psycopg2-binary
